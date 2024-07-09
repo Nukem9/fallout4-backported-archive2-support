@@ -1,0 +1,10 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/vcpkg-tool/main/docs/vcpkg.schema.json",
+  "supports": "windows & x64",
+  "dependencies": [
+    "commonlibf4",
+    "spdlog",
+    "xbyak"
+  ],
+  "builtin-baseline": "47bf3d1ac192b3fa0feb6e6ac9c845de179eebe9"
+}
